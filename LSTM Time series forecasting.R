@@ -127,5 +127,3 @@ library(tensorflow)
     # save prediction
     predictions[i] <- yhat
   }
-  return (predictions)
-}
